@@ -1,4 +1,8 @@
-# Hi 👋 I'm Abdelrahman Medhat Rushdy
+# Hello 👋 I'm Abdelrahman Medhat Rushdy
+
+**🧑‍💻 Software Developer**
+
+Welcome to my GitHub profile! I’m passionate about building intelligent systems and scalable software, with expertise in full-stack development. Let’s turn ideas into impactful code!
 
 # MY STATS:
 
