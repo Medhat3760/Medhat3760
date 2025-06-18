@@ -2,7 +2,7 @@
 
 **🧑‍💻 Software Developer**
 
-Welcome to my GitHub profile! I’m passionate about building intelligent systems and scalable software, with expertise in full-stack development. Let’s turn ideas into impactful code!
+Welcome to my GitHub profile! I am a Flutter developer from Egypt, with experience in building innovative and diverse applications using technologies like Dart and Flutter. I’m passionate about building intelligent systems and scalable software, I have a strong foundation in software development. I have strong expertise in working with APIs and Firebase to develop connected applications. Additionally, I am skilled in state management with Cubit and have recently expanded my skills to include the MVVM (Model-View-ViewModel) design pattern, which has helped me improve code organization and user experience. I have worked on projects in areas such as Chef App, eCommerce App, and Social Media App and more, where I am able to provide innovative solutions that meet user needs and enhance the app experience. Let’s turn ideas into impactful code!
 
 # MY STATS:
 
